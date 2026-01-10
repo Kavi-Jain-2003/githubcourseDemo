@@ -1,1 +1,2 @@
 file 1 of folder one for gitcourse
+enhancing more file1 text
