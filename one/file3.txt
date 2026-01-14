@@ -1,11 +1,8 @@
 file 3 is created
-<<<<<<< HEAD
 
 we are in main
 
-
-
-=======
 adding branch 1 data
 hhello stash
->>>>>>> branch1
+
+
