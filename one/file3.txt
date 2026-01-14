@@ -1,8 +1,3 @@
 file 3 is created
-
 we are in main
-
-adding branch 1 data
-hhello stash
-
-
+pull and compare
